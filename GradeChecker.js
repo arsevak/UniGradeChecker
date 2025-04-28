@@ -7,7 +7,12 @@ const url = 'https://selfservice.mun.ca/admit/bwskogrd.P_ViewGrde';
 
 // First four digits - year, last two digits - semester
 // 01 - Fall, 02 - Winter, 03 - Spring
-const term = '202301'; // Example term, modify as needed
+// For example:
+// '202401' is Fall 2024
+// '202402' is Winter 2025
+// '202403' is Spring 2025
+// '202501' is Fall 2025
+const term = '202402'; // Example term, modify as needed
 
 // Cookies to be used in the request
 // These are the cookies that are set when you log in to the grades page
