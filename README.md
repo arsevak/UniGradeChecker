@@ -1,5 +1,5 @@
 # UniGradeChecker
-A simple script that checks university grades every few seconds
+A simple script that checks university grades every few seconds. Currently designed specifically for Memorial University of Newfoundland. Modify as per your needs.
 
 # Instructions
 
